@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculus Buddy</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- activity_main -->
+    <string name="learn">Learn</string>
+    <string name="test">Test</string>
+    <string name="corrections">Corrections</string>
+
+    <!-- activity_main_sub_menu -->
+    <string name="browse">Browse</string>
+    <string name="random">Random</string>
+    <string name="view_all">View All</string>
+
+    <string name="multi_choice">Multiple Choice</string>
+    <string name="free_response">Free Response</string>
+    <string name="statistics">Statistics</string>
+
+    <string name="starred">Starred</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="supplements">Supplements</string>
+
+</resources>
